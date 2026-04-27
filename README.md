@@ -1,5 +1,3 @@
-# ✦ Awesome Marketing Skills
-
 ![Awesome Marketing Skills Banner](image.png)
 
 <div align="center">
