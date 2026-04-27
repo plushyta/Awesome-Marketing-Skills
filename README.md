@@ -1,6 +1,6 @@
 # ✦ Awesome Marketing Skills
 
-![Awesome Marketing Skills Banner](docs/assets/banner.png)
+![Awesome Marketing Skills Banner](image.png)
 
 <div align="center">
 
@@ -105,7 +105,7 @@ These skills require specific [Model Context Protocol (MCP)](https://modelcontex
 ### 1. Default Placement
 Clone this repository into your project's `.agents/skills/` directory:
 ```bash
-git clone https://github.com/yourusername/awesome-marketing-skills.git .agents/skills/vibe-hub
+git clone https://github.com/plushyta/awesome-marketing-skills.git .agents/skills/vibe-hub
 ```
 
 ### 2. IDE-Specific Discovery
