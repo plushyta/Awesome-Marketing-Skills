@@ -49,7 +49,7 @@ Our flagship skill. It generates premium, multi-page, mobile-optimized marketing
 - **Pixel-Perfect Export**: Automated Puppeteer workflow for high-res PDF distribution.
 
 > [!TIP]
-> Check out the [Spiti Valley Yoga Retreat Brochure](examples/brochure-generator/output/SpitiValley_Retreat_Brochure.pdf) for a live demonstration.
+> Check out the [Yog Yatra Retreat Brochure](examples/brochure-generator/output/Yog_Yatra_Retreat_Brochure.pdf) for a live demonstration.
 
 ---
 
