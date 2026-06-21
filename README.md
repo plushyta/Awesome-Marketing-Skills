@@ -51,6 +51,14 @@ Our flagship skill. It generates premium, multi-page, mobile-optimized marketing
 > [!TIP]
 > Check out the [Yog Yatra Retreat Brochure](examples/brochure-generator/output/Yog_Yatra_Retreat_Brochure.pdf) for a live demonstration.
 
+### 📂 [Hermes Tweet](.agents/skills/hermes-tweet)
+Plans read-first X/Twitter research, launch monitoring, social listening, and controlled publishing workflows through the native [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet) Hermes Agent plugin.
+
+**Key Workflow Features:**
+- **Read-First Research**: Uses `tweet_explore` and `tweet_read` before any account-changing action.
+- **Campaign Signal Design**: Turns trends, mentions, account reads, replies, and follower context into structured launch briefs.
+- **Approval-Gated Actions**: Keeps posting, DMs, follows, monitors, webhooks, media, and draws behind `tweet_action`.
+
 ---
 
 ## 🛠 Upcoming Skills (Incubating)
@@ -169,5 +177,4 @@ Let's build the future of AI-Forward Design together.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-prashitagupta.com-gold?style=flat-square)](https://prashitagupta.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashita%20Gupta-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prashitagupta)
-
 
