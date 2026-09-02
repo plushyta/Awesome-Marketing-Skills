@@ -65,6 +65,13 @@ We are rapidly expanding the hub with new aesthetic-first workflows. **Star this
 
 ---
 
+## Publishing approved content
+
+Once a social asset has passed review, use [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api)
+to adapt, schedule, and publish it across supported channels. The [BulkPublish
+social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills)
+and [API documentation](https://app.bulkpublish.com/docs) provide the approval-first handoff.
+
 ## ⚙️ Requirements: MCP Servers
 
 These skills require specific [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) servers to perform research and handle assets.
@@ -169,5 +176,4 @@ Let's build the future of AI-Forward Design together.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-prashitagupta.com-gold?style=flat-square)](https://prashitagupta.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashita%20Gupta-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prashitagupta)
-
 
